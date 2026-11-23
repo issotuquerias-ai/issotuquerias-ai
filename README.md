@@ -13,6 +13,15 @@ Developer em Portugal, com especialidade em **Inteligência Artificial aplicada 
 - Entrego **plataformas completas**: API, consola web (PWA) e aplicação móvel
 - Foco em qualidade: TypeScript em modo estrito e testes automáticos
 
+## About me
+
+Developer based in Portugal, specialised in **Artificial Intelligence applied to real products**. I design and build complete applications, from the server to the web and mobile interface, including 3D simulators and tools that run on the device itself.
+
+- Vocational training in **Computer Systems Management and Programming**
+- Working with **language models** (Claude, Ollama) and **on-device AI**: OCR, image detection and local models
+- Shipping **full platforms**: API, web console (PWA) and mobile app
+- Focus on quality: strict TypeScript and automated tests
+
 ---
 
 ## Competências
