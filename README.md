@@ -6,6 +6,15 @@
 
 </div>
 
+<div align="center">
+
+![Projetos](https://img.shields.io/badge/projetos-15%2B-7F00FF?style=for-the-badge)
+![IA](https://img.shields.io/badge/especialidade-IA-00D4FF?style=for-the-badge)
+![Apps](https://img.shields.io/badge/web%20%C2%B7%20mobile%20%C2%B7%203D-0D1117?style=for-the-badge)
+![PT](https://img.shields.io/badge/feito%20em-Portugal-006600?style=for-the-badge)
+
+</div>
+
 ---
 
 ## 🧠 Sobre mim
@@ -42,11 +51,22 @@
 
 ---
 
-## 🚀 Projetos
+## ⭐ Em destaque
+
+| | |
+|---|---|
+| 📰 **Prisma Notícias**<br>App Android/iOS/Web com análise de fake news por IA | 📖 **Fukidashi**<br>Tradutor de mangá com IA a correr no dispositivo |
+| 🗳️ **PLENÁRIO PT**<br>Simulador político com Assembleia em 3D e método de D'Hondt | 🚓 **Ordem Pública: Portugal**<br>Estratégia em cidades reais com mapas OpenStreetMap |
+
+> 🔒 Os repositórios dos projetos vão ficando públicos à medida que ficam prontos, cada um com README e capturas de ecrã.
+
+---
+
+## 🚀 Todos os projetos
 
 ### ⚖️ Astreia — Justiça e Segurança Pública (Brasil)
-Plataforma web para a **Polícia Federal e o sistema de justiça do Brasil**, com dezenas de módulos: inquéritos, perícia, custódia, inteligência, ciber, migração e fronteiras, mapa por estados, jurisprudência, legislação, plenários e muito mais. Com acesso seguro por palavra-passe e código (OTP).
-`TypeScript` `React` `Mapas` `Web App`
+Protótipo não oficial (dados fictícios) de uma plataforma web para o **sistema de justiça e segurança pública do Brasil**, com dezenas de módulos: inquéritos, perícia, custódia, inteligência, ciber, migração e fronteiras, mapa por estados, jurisprudência, legislação, plenários e muito mais. Com acesso seguro por palavra-passe e código (OTP).
+`React` `Vite` `SQLite WASM` `Netlify`
 
 ### 🏛️ Plenário Aberto
 Mostra **em 3D como votam deputados e senadores** e as decisões da Presidência da República, com **dados oficiais abertos** e atualização diária de votações e sessões.
